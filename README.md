@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Dev%20in%20progress;Building%20with%20MERN%20;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Open%20to%20Collab&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-&#8287;&#8287;&#8287;&#8287;&#8287;
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -28,4 +28,8 @@
   
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+<!-- gif --->
+<p align="center">
+<img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80'>
 </p>
